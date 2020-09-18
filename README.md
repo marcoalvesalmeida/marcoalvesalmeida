@@ -1,5 +1,3 @@
-### Fala geeks, tudo bem? 👋
-
 <img src="concept.png" min-width="400px" max-width="400px" width="400px" style="margin-top: -100px;" align="right" alt="Marco Almeida">
 
 <p align="left">

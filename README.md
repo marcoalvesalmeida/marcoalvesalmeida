@@ -1,4 +1,15 @@
-### Hi there 👋
+### Fala geeks, tudo bem? 👋
+
+<img src="concept.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Marco Almeida">
+
+<p align="left">
+  Meu nome é Marco Almeida, sou graduado em <strong>Análise e Densevolvimento de Sistemas</strong> pelo IFNMG - Campus Januária. Estou cursando pós graduação em <strong>Gestão de Tecnologia da Informação<strong> e trabalho atualmente como desenvolvedor React Native. Trabalho com desenvolvimento há 2 anos e adquiri diversos conhecimentos durante esse tempo, inclusive um amor incondicional pela stack NodeJS/React/React Native.🚀
+  
+</p>
+
+<p align="left">
+   ⚡ Novidades: <strong>No momento estou me aprofundando em NextJS!</strong>
+</p>
 
 <!--
 **marcoalvesalmeida/marcoalvesalmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

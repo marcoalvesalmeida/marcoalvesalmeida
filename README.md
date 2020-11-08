@@ -1,7 +1,7 @@
 ### Fala geeks, tudo bem? 👋
 <img src="concept.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Marco Almeida">
 <p align="left">
-  Meu nome é Marco Almeida, sou graduado em <strong>Análise e Densevolvimento de Sistemas</strong> pelo IFNMG - Campus Januária. Estou cursando pós graduação em <strong>Gestão de Tecnologia da Informação</strong> e trabalho atualmente como desenvolvedor React Native. Trabalho com desenvolvimento há 2 anos e adquiri diversos conhecimentos durante esse tempo, inclusive um amor incondicional pela stack <strong>NodeJS/React/React Native.</strong>🚀
+  Meu nome é Marco Almeida, sou graduado em <strong>Análise e Densevolvimento de Sistemas</strong> pelo IFNMG - Campus Januária. Ainda na área de formação sou Especialista em <strong>Gestão de Tecnologia da Informação</strong> e trabalho atualmente como desenvolvedor React Native. Trabalho com desenvolvimento há 2 anos e adquiri diversos conhecimentos durante esse tempo, inclusive um amor incondicional pela stack <strong>NodeJS/React/React Native.</strong>🚀
   
 </p>
 

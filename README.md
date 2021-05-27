@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-   ⚡ Novidades: <strong>No momento estou me aprofundando em NextJS!</strong>
+   ⚡ Novidades: <strong>No momento estou me aprofundando em NextJS e Flutter!</strong>
 </p>
 
 <!--
